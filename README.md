@@ -1,7 +1,7 @@
 # 📌 Chatbot para IFBA - Integração Dialogflow, Pipedream, Gemini e WhatsApp  
 
 ## 📖 Sobre o Projeto  
-Este projeto tem como objetivo desenvolver um **chatbot inteligente** para responder dúvidas de alunos, professores e servidores do **IFBA**. O chatbot utiliza o **Dialogflow** para reconhecimento de intents, **o** Pipedream para automação de processos e o **Gemini** para respostas mais elaboradas com base em documentos institucionais.  
+Este projeto tem como objetivo desenvolver um **chatbot inteligente** para responder dúvidas de alunos, professores e servidores do **IFBA**. O chatbot utiliza o **Dialogflow** para reconhecimento de intents, o **Pipedream** para automação de processos e o **Gemini** para respostas mais elaboradas com base em documentos institucionais.  
 
 A comunicação acontece via **WhatsApp**, permitindo que os usuários enviem perguntas diretamente pelo aplicativo e recebam respostas de forma automatizada.  
 
