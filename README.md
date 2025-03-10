@@ -71,7 +71,7 @@ A comunicação acontece via **WhatsApp**, permitindo que os usuários enviem pe
 ## 🔐 Segurança e Gerenciamento de Credenciais  
 
 Para proteger credenciais e evitar acessos não autorizados:  
-- Utilizamos variáveis de ambiente (`.env`) para armazenar tokens do Google Cloud e Twilio  
+- Utilizamos variáveis de ambiente (`.env`) para armazenar tokens do Google Cloud 
 - O acesso ao Gemini AI é autenticado via **OAuth 2.0**  
 - O webhook do Dialogflow aceita apenas requisições autenticadas  
 
