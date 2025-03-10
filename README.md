@@ -35,6 +35,7 @@ A comunicação acontece via **WhatsApp**, permitindo que os usuários enviem pe
 ├── 📜 `README.md` → Este arquivo, contendo a documentação do projeto  
 ├── 📂 `arquivos .txt` → Contém os arquivos utilizados pelo **Gemini** como base para responder às dúvidas  
 ├── 📂 `workflow` → Contém os fluxos de trabalho organizados em quatro etapas: 
+|   |
 │   ├── 📂 `Trigger (Recebe a sessão do Dialogflow)` → Contém a documentação sobre o recebimento da sessão do usuário   
 │   ├── 📂 `Step 1 (Código Fonte)` → Contém o código-fonte do projeto e sua documentação  
 │   ├── 📂 `Step 2 (Integração com Gemini)` → Contém a documentação da integração com o Gemini  
