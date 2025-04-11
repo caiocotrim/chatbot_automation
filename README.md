@@ -5,6 +5,8 @@ Este projeto tem como objetivo desenvolver um **chatbot inteligente** para respo
 
 A comunicação acontece via **WhatsApp**, permitindo que os usuários enviem perguntas diretamente pelo aplicativo e recebam respostas de forma automatizada.  
 
+**Link do Chatbot em Funcionamento: https://www.youtube.com/shorts/ltcQxNK7Sng**
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas  
